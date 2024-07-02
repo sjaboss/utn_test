@@ -1,0 +1,42 @@
+[
+    {
+        "nombre": "javier",
+        "puntaje": 10
+    },
+    {
+        "nombre": "test",
+        "puntaje": 20
+    },
+    {
+        "nombre": "Val",
+        "puntaje": 10
+    },
+    {
+        "nombre": "Val",
+        "puntaje": 10
+    },
+    {
+        "nombre": "val",
+        "puntaje": 10
+    },
+    {
+        "nombre": "David",
+        "puntaje": 20
+    },
+    {
+        "nombre": "David",
+        "puntaje": 10
+    },
+    {
+        "nombre": "dddd",
+        "puntaje": 0
+    },
+    {
+        "nombre": "pruebas",
+        "puntaje": 30
+    },
+    {
+        "nombre": "yo",
+        "puntaje": -5
+    }
+]
